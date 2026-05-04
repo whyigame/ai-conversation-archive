@@ -6,7 +6,7 @@ A curated archive of selected AI collaborative sessions — creative fiction, ex
 
 | Date | Title | Notes |
 |------|-------|-------|
-| 2026-05-04 | [VtM AU Episode 1 – Thorns Under Briarport](2026-05-04%20VtM%20AU%20Episode%201%20-%20Thorns%20Under%20Briarport.html) | Vampire: The Masquerade, AU with Original Characters, collaborative story sketches with AI (GPT 5.5 Thinking)|
+| 2026-05-04 | [VtM AU Episode 1 – Thorns Under Briarport](https://whyigame.github.io/ai-conversation-archive/2026-05-04%20VtM%20AU%20Episode%201%20-%20Thorns%20Under%20Briarport.html) | Vampire: The Masquerade, AU with Original Characters, collaborative story sketches with AI (GPT 5.5 Thinking)|
 
 ## About
 Conversations are lightly processed for readability (identifiers stripped, formatting cleaned).
